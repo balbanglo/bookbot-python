@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+# This is an project for Boot.dev.
+
 import sys 
 
 from stats_for_bookbot import find_word_count
