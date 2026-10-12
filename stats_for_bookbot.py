@@ -1,3 +1,5 @@
+# This is for the BookBot project to scan e-books.
+
 def find_word_count(file):
     words = file.split()
     return len(words)
