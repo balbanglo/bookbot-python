@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# This is an project for Boot.dev.
+# This is an educational project for Boot.dev.
 
 import sys 
 
